@@ -1,0 +1,17 @@
+Coeficiente de Agrupamento (Grafo Aleatório): 0.0026515798949395502
+Comprimento Médio do Caminho (Grafo Aleatório): 5.2308558379476935
+Coeficiente de Agrupamento (Small-World): 0.49751136635558746
+Comprimento Médio do Caminho (Small-World): 77.75593175235785
+Coeficiente de Agrupamento (Barabási-Albert): 0.026945343434754954
+Comprimento Médio do Caminho (Barabási-Albert): 3.296080154466916
+
+Comparação com os modelos:
+Coeficiente de Agrupamento do Componente Gigante: 0.0
+Coeficiente de Agrupamento do Grafo Aleatório: 0.0026515798949395502
+Coeficiente de Agrupamento do Grafo Small-World: 0.49751136635558746
+Coeficiente de Agrupamento do Grafo Barabási-Albert: 0.026945343434754954
+
+Comprimento Médio do Caminho do Componente Gigante: 4.7230796841349605
+Comprimento Médio do Caminho do Grafo Aleatório: 5.2308558379476935
+Comprimento Médio do Caminho do Grafo Small-World: 77.75593175235785
+Comprimento Médio do Caminho do Grafo Barabási-Albert: 3.296080154466916

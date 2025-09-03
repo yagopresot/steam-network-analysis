@@ -1,0 +1,4 @@
+Métricas da rede criada:
+Diâmetro da rede: 12
+Comprimento Médio do Caminho: 4.7231
+Grau Médio: 4.2254

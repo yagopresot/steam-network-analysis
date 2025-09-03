@@ -1,0 +1,2 @@
+Coeficiente de Agrupamento (Clustering Coefficient): 0.0
+Comprimento Médio do Caminho (Average Path Length): 4.7230796841349605

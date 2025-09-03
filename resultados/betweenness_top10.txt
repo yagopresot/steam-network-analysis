@@ -1,0 +1,11 @@
+Betweenness (Top 10):
+ Action: 0.2291
+ Multiplayer: 0.1834
+ Open World: 0.1415
+ Simulation: 0.0957
+ RPG: 0.0719
+Action: 0.0686
+ Story Rich: 0.0563
+RPG: 0.0537
+Strategy: 0.0531
+ Strategy: 0.0515
